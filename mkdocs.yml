@@ -1,0 +1,15 @@
+site_name: Elevate Documentation  
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: amber
+    accent: deep purple
+  features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.top
+    # - toc.integrate
+markdown_extensions:
+- toc:
+    permalink: true
