@@ -2,8 +2,6 @@
 
 Click on the _[Sync...]_ dropdown button in top right and corner, then click _[Backup profile]_.
 
-_Note: A complete sync is required in order to perform a backup._
-
 [](id:profile-download-backup-export-save-history-activity-activities)
 
 ## How to restore my profile?
