@@ -44,7 +44,7 @@ The 1st sync can take hours to complete if you have a large history (Enter _"id:
 1. First [request a download of your activities **(in step 2)**](https://www.strava.com/athlete/delete_your_account).
 1. Unzip the downloaded archive to a location of your choice.
 1. Using the **File connector**, select and sync the folder ⇾ _**"activities"**_.
-1. Then, on the **Strava connector**, click _Configure_ and **tick** the option _**Override existing activities names and types with those fetched from Strava**_.
+1. Then, on the **Strava connector**, click _Configure_ and **tick** the option _**Override existing activities names, types and commute statuses with those fetched from Strava.**_.
 1. Sync now the **Strava connector** with _Sync all activities_ button.
 Only the activities names and types previously synced by the file connector will be updated. Every others and "heavy" network calls to Strava will be avoided.
 

@@ -1,4 +1,10 @@
-site_name: Elevate Documentation  
+site_name: Elevate Documentation
+
+repo_name: thomaschampagne/elevate
+repo_url: https://github.com/thomaschampagne/elevate
+
+dev_addr: localhost:8000
+
 theme:
   name: material
   palette:
@@ -10,6 +16,7 @@ theme:
     - navigation.expand
     - navigation.top
     # - toc.integrate
+
 markdown_extensions:
 - toc:
     permalink: true
