@@ -15,3 +15,36 @@ Click on the  _[Sync...]_ dropdown button in top right and corner, then click _[
 No they are not. You can't import a web extension backup into desktop, and vice versa.
 
 [](id:profile-backup-compatible-desktop-extension)
+
+## How Fitness Trend feature works?
+
+To understand how fitness trend works:
+
+1. Open Elevate App.
+2. In the left menu click `Fitness Trend`.
+3. Then find & click the `buoy/support` icon.
+4. The `Fitness Trend` user guide should open.
+
+[](id:feature-fitness-trend-desktop-extension)
+
+## How Year Progressions feature works?
+
+To understand how fitness trend works:
+
+1. Open Elevate App.
+2. In the left menu click `Year Progressions`.
+3. Then find & click the `buoy/support` icon.
+4. The `Year & Rolling Progressions` user guide should open.
+
+[](id:feature-year-progressions-desktop-extension)
+
+## How Rolling Progressions feature works?
+
+To understand how fitness trend works:
+
+1. Open Elevate App.
+2. In the left menu click `Year Progressions`.
+3. Then find & click the `buoy/support` icon.
+4. The `Year & Rolling Progressions` user guide should open.
+
+[](id:feature-rolling-progressions-desktop-extension)
