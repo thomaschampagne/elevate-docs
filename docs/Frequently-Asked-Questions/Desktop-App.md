@@ -9,15 +9,15 @@ Click the _[3-dots]_ button in top right and corner, then _Advanced menu_ > _Rec
 From old extension version **v6 or less**:
 
 1. Open the old chrome extension app in your browser (version 6 or less only).
-1. Press `F12` to display the developer's tools.
-1. Click on `Console` tab.
-1. `Copy` & `Paste` the following code into developer `Console`:
+1. Press **F12** to display the developer's tools.
+1. Click on **Console** tab.
+1. **Copy** & **Paste** the following code into developer **Console**:
 > `chrome.storage.local.get(null, r => console.log(btoa(JSON.stringify(r.athlete.datedAthleteSettings))));`
-1. Tap `enter`.
-1. A backup string should be returned as a result. It should be something like: `W3sibWF4S......m51bGx9XQ==`
-1. `Copy` this string in your clipboard.
-1. In the desktop app, go to `Athlete Settings` and click on upload athlete settings button.
-1. `Paste` the string previously copied.
+1. Tap **enter**.
+1. A backup string should be returned as a result. It should be something like: **W3sibWF4S......m51bGx9XQ==**
+1. **Copy** this string in your clipboard.
+1. In the desktop app, go to **Athlete Settings** and click on upload athlete settings button.
+1. **Paste** the string previously copied.
 1. Your settings should be back ;)
 
 [](id:transfert-athlete-settings-extension-desktop)
