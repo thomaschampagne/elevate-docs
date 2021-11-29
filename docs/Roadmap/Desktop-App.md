@@ -11,5 +11,5 @@
 - **Activities Table**: Advanced activity search feature (search everything on fields with equality, lower than, greater than, between...).
 - **Zones**: Define zones per sports type
 - **Zones**: Default and user defined zones labels (e.g common heart zones labels: Warm Up, Easy, Aerobic, Threshold, Maximum).
-- **Dashboard**: Centralized view of your history with insights (details to be defined).
+- **Dashboard**: Centralized view of your history with insights (total distance this week & month, current form, etc...).
 - **Goals**: View of user defined goals (e.g. distance, time, elevation to accomplish over a time period...)
