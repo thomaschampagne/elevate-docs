@@ -18,3 +18,16 @@ theme:
 markdown_extensions:
 - toc:
     permalink: true
+
+nav:
+  - Download & Install:
+      - Windows: Download-&-Install/Windows.md
+      - macOS: Download-&-Install/macOS.md
+  - Frequently Asked Questions:
+      - All Platforms: Frequently-Asked-Questions/All-Platforms.md
+      - Desktop App: Frequently-Asked-Questions/Desktop-App.md
+      - Web Extension: Frequently-Asked-Questions/Web-Extension.md
+  - Roadmap:
+      - Desktop App: Roadmap/Desktop-App.md
+      - Web Extension: Roadmap/Web-Extension.md
+  - Privacy: Privacy.md
