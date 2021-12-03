@@ -12,10 +12,8 @@ theme:
     primary: amber
     accent: deep purple
   features:
-    - navigation.instant
-    - navigation.expand
+    - navigation.sections
     - navigation.top
-    # - toc.integrate
 
 markdown_extensions:
 - toc:

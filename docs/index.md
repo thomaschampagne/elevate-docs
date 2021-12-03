@@ -1,5 +1,4 @@
-## Desktop App related sections
-
+- Install on [Windows](./Download-&-Install/Windows.md), [macOS](./Download-&-Install/macOS.md)
 - [Frequently Asked Questions](./Frequently-Asked-Questions/Desktop-App.md)
 - [Known Issues](./Known-Issues/Desktop-App.md)
 - [Roadmap](./Roadmap/Desktop-App.md)
