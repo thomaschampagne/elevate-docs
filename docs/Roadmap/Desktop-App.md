@@ -2,11 +2,9 @@
 
 - **Global**: App stabilization.
 - **Sync**: Manual file uploads (drag and drop).
-- **Sync**: Creation of manual activities aside connectors.
 - **Sync**: Garmin connector able to sync activities from your Garmin connect account.
 - **Sync**: Detect and update sport type of unknown activities types using your existing known history.
 - **Athlete Settings**: Auto-detection of your athlete settings (max hr, cycling FTP, running FTP, ...)
-- **Activity**: Display best splits by time and distance (with default and user defined values).
 - **Activity**: Update stats along activity section selected (from graph selection, selected peak, selected interval & selected best splits).
 - **Activity**: Peaks comparison with previous activities (e.g. Power curve comparison).
 - **Activities Table**: Advanced activity search feature (search everything on fields with equality, lower than, greater than, between...).
