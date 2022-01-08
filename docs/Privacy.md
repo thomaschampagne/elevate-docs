@@ -26,7 +26,7 @@ For the purposes of this Privacy Policy:
 
 ### Machine Data
 
-As a privacy requirement, **Elevate do not store personal** data that relates to an identified or identifiable individual. Elevate only identifies the machines or devices you use to access the application. Machines identifiers are used for this.  
+As a privacy requirement, **Elevate do not store personal** data that relates to an identified or identifiable individual. Elevate only identifies the machines or devices you use to access the application. Machines identifiers are used for this.
 
 ### Usage Data
 
@@ -60,27 +60,12 @@ The application may disclose your machine data in the good faith belief that suc
 
 The security of your machine data is very important, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While Elevate strive to use commercially acceptable means to protect your machine data, Elevate cannot guarantee its absolute security.
 
-# Children's Privacy
-
-The application does not address anyone under the age of 13. Elevate do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If Elevate become aware that Elevate have collected Personal Data from anyone under the age of 13 without verification of parental consent, Elevate take steps to remove that information from Our servers.
-
-If Elevate need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, Elevate may require Your parent's consent before Elevate collect and use that information.
-
-
-# Links to Other Websites
-
-the application may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. Elevate strongly advise You to review the Privacy Policy of every site You visit.
-
-Elevate have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
 # Changes to this Privacy Policy
 
-Elevate may update Our Privacy Policy from time to time. Elevate will push any changes by posting the new Privacy Policy on this page.
+Elevate may update this Privacy Policy from time to time. Elevate will push any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-# Contact Us
+# Contact
 
-If you have any questions about this Privacy Policy, You can contact us:
-
-- By email: elevate-sports-app@protonmail.com
+If you have any questions about this Privacy Policy, send a message to elevate-sports-app@protonmail.com
