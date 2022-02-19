@@ -1,4 +1,4 @@
-- Download the <a href="https://github.com/thomaschampagne/elevate/releases/latest" target="_blank">latest version</a> from github (<a href="https://www.virustotal.com/gui/file/a8662319acb392da90cf6d8e923041739cc7b125232f87cae7f8e12d4fd5275d" target="_blank">check security report</a>)
+- Download the <a href="https://github.com/thomaschampagne/elevate/releases/latest" target="_blank">latest version</a> from github (<a href="https://www.virustotal.com/gui/file/6f536488dc3c616ba7081bcf7b653b3b64f1ce453337ce075fd36ce7f506ce13" target="_blank">check security report</a>)
 - Install Elevate.
 - After Launching Elevate, you should this warning, It's normal... Click `More info`
 
