@@ -1,7 +1,5 @@
 # Privacy Policy
 
-Last updated: December 01, 2021
-
 This Privacy Policy describes policies and procedures on the collection, use and disclosure of Your information when You use the application. By using the application, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 # Interpretation and Definitions
