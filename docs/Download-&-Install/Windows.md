@@ -11,3 +11,9 @@
 > ![](./imgs/Windows/run-anyway.png)
 
 - You're done
+
+If you don't see the "Run anyway" button :
+- Open your file explorer and go to the location of the setup file you just downloaded
+- Right click on it, and click `Properties`
+- This will open a new window, then at the bottom of the `General` page, you will see a section called `Security`. Just check the `Unlock` box. You can close the properties window.
+- Just execute the setup file, and you're done
