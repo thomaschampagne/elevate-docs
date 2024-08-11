@@ -1,4 +1,4 @@
-- <a href="https://github.com/thomaschampagne/elevate/releases/download/7.1.0/Elevate-Setup-7.1.0.exe" target="_blank">Download app</a> from github (<a href="https://www.virustotal.com/gui/file/192432e5bf5cea29fa293ba6f3c6c07270883abb4e7355b7193da79a64162df5?nocache=1" target="_blank">check security report</a>)
+- <a href="https://github.com/thomaschampagne/elevate/releases/download/7.2.0/Elevate-Setup-7.2.0.exe" target="_blank">Download app</a> from github (<a href="https://www.virustotal.com/gui/file/07c6a50e38100d4820dfbf31b2c54cea54fd794f4c61bd30af28019de81437aa?nocache=1" target="_blank">check security report</a>)
 - Install Elevate.
 - After Launching Elevate, you should below warning, It's normal... Click `More info`
 
@@ -11,5 +11,3 @@
 > ![](./imgs/Windows/run-anyway.png)
 
 - You're done
-
-
