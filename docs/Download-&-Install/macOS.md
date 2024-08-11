@@ -1,4 +1,4 @@
-- Download the <a href="https://github.com/thomaschampagne/elevate/releases/latest" target="_blank">latest "Elevate-x.x.x-universal.dmg" file</a> from github (<a href="https://www.virustotal.com/gui/file/ba639ce514710e6a2d57c57417d0c6631008298d5f3804846b482b32ae7f8df9" target="_blank">check security report</a>)
+- Download the <a href="https://github.com/thomaschampagne/elevate/releases/latest" target="_blank">latest "Elevate-x.x.x-universal.dmg" file</a> from github (<a href="https://www.virustotal.com/gui/file/1296815de59e7f62b86bdda0457478a6a40b0d292f59a04a7d559ba8d3f94473?nocache=1" target="_blank">check security report</a>)
 - Open **.dmg** file, then drag and drop Elevate into your apps.
 - After Launching Elevate, you should get one of below warnings, It's normal... Just click `Cancel` or `Ok`
 
