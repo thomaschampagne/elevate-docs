@@ -1,4 +1,7 @@
-- Install on [Windows](./Download-&-Install/Windows.md), [macOS](./Download-&-Install/macOS.md)
+- [Screenshots](./Screenshots/index.md)
+- Installation:
+    - [Windows](./Download-&-Install/Windows.md) install guide
+    - [macOS](./Download-&-Install/macOS.md) install guide
 - [Frequently Asked Questions](./Frequently-Asked-Questions/Desktop-App.md)
 - [Known Issues](./Known-Issues/Desktop-App.md)
 - [Roadmap](./Roadmap/Desktop-App.md)

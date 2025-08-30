@@ -16,10 +16,11 @@ theme:
     - navigation.top
 
 markdown_extensions:
-- toc:
-    permalink: true
+  - toc:
+      permalink: true
 
 nav:
+  - Screenshots: Screenshots/index.md
   - Download & Install:
       - Windows: Download-&-Install/Windows.md
       - macOS: Download-&-Install/macOS.md
